@@ -1,6 +1,6 @@
 # Typora S3图床上传脚本
 
-一个用于 [Typora](https://typora.io/) 的自定义图床上传脚本，可将本地图片上传至 [S3图床](https://S3图床.net/) 的 S3 图床，并返回 Markdown 可用的图片链接。
+一个用于 [Typora](https://typora.io/) 的自定义图床上传脚本，可将本地图片上传至 [S3图床](https://S3图床.net/) ，并返回 Markdown 可用的图片链接。
 
 支持 Windows、macOS、Linux，修复了 Windows 下的中文乱码问题。
 
