@@ -50,10 +50,10 @@ pip install requests
 
 ```python
 MY_COOKIE = 'c_secure_pass=你的值; KEEP_LOGIN_GOAUTH=你的值; PHPSESSID=你的值'
-
+```
 > ⚠️ **安全警告**  
 > Cookie 等同于你的登录凭证，请勿将包含真实 Cookie 的脚本提交到公开仓库，也不要分享给他人。  
-```
+
 
 ### 3. 命令行测试
 
